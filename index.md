@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Demo Video
 
-{%youtube xhbYEeMMaIE %}
+[![Alt text](https://img.youtube.com/vi/xhbYEeMMaIE/0.jpg)](https://www.youtube.com/watch?v=xhbYEeMMaIE)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
